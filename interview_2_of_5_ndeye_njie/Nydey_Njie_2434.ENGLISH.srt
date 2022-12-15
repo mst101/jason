@@ -1,419 +1,589 @@
 1
-00:00:00,480 --> 00:00:03,360
-Introduce yourself, go tell your function
+00:00:00,000 --> 00:00:03,500
+Please introduce yourself,
+tell us your job
 
 2
-00:00:03,880 --> 00:00:06,480
+00:00:03,500 --> 00:00:06,480
+and explain
 where are you right now.
 
 3
 00:00:06,480 --> 00:00:10,160
-Here, I am and I am practically in a village
+OK, I am practically
+in a village
 
 4
-00:00:10,160 --> 00:00:13,040
-which is called from my factories, a village which is
+00:00:10,160 --> 00:00:13,700
+which is called Demizine,
+a village which is
 
 5
-00:00:13,760 --> 00:00:16,440
-behind the room.
+00:00:13,700 --> 00:00:16,440
+behind the SCL.
 
 6
-00:00:16,440 --> 00:00:19,560
-and my name is
+00:00:16,440 --> 00:00:18,560
+And my name is
 
 7
-00:00:19,920 --> 00:00:20,840
-Exchange.
+00:00:18,560 --> 00:00:20,840
+(Sheikh Abou Njie?)
 
 8
 00:00:21,360 --> 00:00:23,640
-I am assistant to the director
+I am the
+deputy headmaster
 
 9
-00:00:25,000 --> 00:00:27,440
-to the.
+00:00:25,000 --> 00:00:26,000
+There you are
 
 10
-00:00:28,560 --> 00:00:31,520
-Can you tell us what were
+00:00:27,000 --> 00:00:28,000
+Thank you
 
 11
-00:00:31,520 --> 00:00:36,480
-the achievements of the Waitrose Foundation and what are the impacts
+00:00:28,560 --> 00:00:31,000
+Can you tell us what
 
 12
-00:00:36,480 --> 00:00:40,880
-for children, both in terms of results and hygiene?
+00:00:31,000 --> 00:00:33,500
+the Waitrose foundation
+has achieved
 
 13
-00:00:41,240 --> 00:00:43,480
-There it is, thanks. Thanks thanks.
+00:00:33,500 --> 00:00:37,480
+and what the impact has been
+for children,
 
 14
-00:00:44,280 --> 00:00:49,800
-The Fondation avec moi Metro has done a lot of things at the school level.
+00:00:37,480 --> 00:00:40,880
+both in terms of academic results
+and hygiene?
 
 15
-00:00:50,240 --> 00:00:53,280
-Initially, there was not much with the classrooms that were
+00:00:41,240 --> 00:00:43,480
+OK, thanks.
+Thanks, thanks.
 
 16
-00:00:54,600 --> 00:00:56,320
-in very poor condition.
+00:00:44,280 --> 00:00:47,400
+The Waitrose foundation
 
 17
-00:00:56,320 --> 00:01:01,160
-But the Metro Foundation came with the SL
+00:00:47,400 --> 00:00:50,000
+has done a lot of things
+for the school.
 
 18
-00:01:02,640 --> 00:01:04,800
-rectified to renovate
+00:00:50,000 --> 00:00:52,000
+Initially, there wasn't
+very much here.
 
 19
-00:01:05,040 --> 00:01:09,440
-classrooms and so far not just classrooms.
+00:00:52,000 --> 00:00:54,320
+The classrooms were
 
 20
-00:01:09,440 --> 00:01:11,640
-There are still toilets that are renovated.
+00:00:54,320 --> 00:00:56,320
+in very poor condition,
 
 21
-00:01:11,640 --> 00:01:14,280
-Even the fronts of the classrooms are renovated.
+00:00:56,320 --> 00:01:02,300
+But the Waitrose foundation
+together with the SCL
 
 22
-00:01:15,000 --> 00:01:18,080
-And today, really, we are proud of
+00:01:02,300 --> 00:01:06,200
+came to repair, to renovate,
+the classrooms
 
 23
-00:01:18,080 --> 00:01:20,640
-this foundation with which we are very proud.
+00:01:06,200 --> 00:01:07,400
+and indeed
 
 24
-00:01:21,280 --> 00:01:23,320
-And what are the impacts for children?
+00:01:07,400 --> 00:01:09,800
+not just the classrooms...
 
 25
-00:01:23,320 --> 00:01:25,680
-What does it improve for children?
+00:01:09,800 --> 00:01:11,640
+the toilets have been
+renovated too.
 
 26
-00:01:25,680 --> 00:01:30,080
-Well, you know, at the beginning, it was a bit difficult to have
+00:01:11,640 --> 00:01:15,000
+Even the front of the
+classrooms have been renovated.
 
 27
-00:01:30,640 --> 00:01:33,320
-many students in school because the school was not
+00:01:15,000 --> 00:01:18,080
+And today, really,
+we are very proud of
 
 28
-00:01:34,240 --> 00:01:36,360
-In very good shape. But today,
+00:01:18,080 --> 00:01:21,200
+this foundation along with the SCL.
+We are very proud.
 
 29
-00:01:36,360 --> 00:01:38,480
-with the classrooms which are very well renovated,
+00:01:21,200 --> 00:01:23,320
+And how have the children
+been affected?
 
 30
-00:01:39,840 --> 00:01:42,600
-we are really witnessing
+00:01:23,320 --> 00:01:25,680
+What has improved for
+the children?
 
 31
-00:01:42,600 --> 00:01:45,560
-a capital importance of the school because we see as
+00:01:25,680 --> 00:01:29,200
+Well, you know, at the beginning,
+it was a bit difficult
 
 32
-00:01:45,600 --> 00:01:50,280
-the parents of pupils or the inhabitants bring the children to school.
+00:01:29,200 --> 00:01:32,000
+to have many students
+in school
 
 33
-00:01:50,800 --> 00:01:53,280
-And then the results
+00:01:32,000 --> 00:01:35,600
+because the school was not
+in very good shape.
 
 34
-00:01:53,280 --> 00:01:56,480
-really are very well at the level of the municipality of tomorrow.
+00:01:35,600 --> 00:01:37,300
+But today,
+now that the classrooms
 
 35
-00:01:57,080 --> 00:01:58,800
-At the level of the commune, kids.
+00:01:37,300 --> 00:01:41,000
+have been well renovated,
+we are really witnessing
 
 36
-00:01:58,800 --> 00:02:02,840
-We had 100% successively last year.
+00:01:41,000 --> 00:01:44,800
+an increase in attendance
 
 37
-00:02:02,840 --> 00:02:06,760
-In 99, we had almost 95%
+00:01:44,800 --> 00:01:48,000
+because we're seeing
+parents, inhabitants,
 
 38
-00:02:07,920 --> 00:02:09,360
-the next year.
+00:01:48,000 --> 00:01:50,700
+bringing their children
+to school.
 
 39
-00:02:09,560 --> 00:02:12,240
-In 2020, we had almost 95%.
+00:01:50,700 --> 00:01:55,300
+And then, the results
+are really good
 
 40
-00:02:12,800 --> 00:02:15,440
-And this year, if last year 2020
+00:01:55,300 --> 00:01:56,700
+in of the municipality
+of Yamane.
 
 41
-00:02:15,440 --> 00:02:18,840
-we had 100% at the level of the commune, we are the first in school.
+00:01:56,900 --> 00:01:58,400
+In of the municipality
+of Yamane,
 
 42
-00:02:19,280 --> 00:02:21,440
-So this is due to the works that are
+00:01:58,400 --> 00:02:00,500
+We have achieved a pass rate
+of 100%
 
 43
-00:02:22,440 --> 00:02:26,560
-slaughtered by the people of the Rose and the SL.
+00:02:00,500 --> 00:02:03,000
+in succession, because
+last year
 
 44
-00:02:27,360 --> 00:02:28,720
-We got 100%.
+00:02:03,000 --> 00:02:08,000
+in 2019 we had
+almost 95%.
 
 45
-00:02:28,720 --> 00:02:30,280
-All the students
+00:02:08,000 --> 00:02:12,500
+The following year, in 2021,
+we had almost 95%.
 
 46
+00:02:12,500 --> 00:02:15,500
+And this year, this past year,
+2021, I mean 2022,
+
+47
+00:02:15,500 --> 00:02:17,400
+we achieved a pass rate of 100%
+at the municipality level,
+
+48
+00:02:17,400 --> 00:02:19,400
+so, we are leading
+in school.
+
+49
+00:02:19,400 --> 00:02:20,500
+So this is due to
+
+50
+00:02:20,500 --> 00:02:22,900
+the work that
+has been conducted
+
+51
+00:02:22,900 --> 00:02:26,400
+by the people of Waitrose
+and the SCL.
+
+52
+00:02:26,400 --> 00:02:28,400
+So, we got 100%
+
+53
+00:02:28,400 --> 00:02:31,000
+This means that
+all students
+
+54
 00:02:31,000 --> 00:02:33,400
 passed the exam.
 
-47
-00:02:33,400 --> 00:02:36,400
-And on the impact of the Foundation's achievements
-
-48
-00:02:36,400 --> 00:02:38,440
-Waitrose Health and Hygiene.
-
-49
-00:02:38,440 --> 00:02:38,680
-Children.
-
-50
-00:02:40,280 --> 00:02:44,600
-Because, in terms of health, they have arranged many more
-
-51
-00:02:44,600 --> 00:02:48,520
-for the toilets whereas previously there were toilets,
-
-52
-00:02:48,520 --> 00:02:52,000
-so this really resulted in giving very good hygiene
-
-53
-00:02:53,320 --> 00:02:54,640
-to the locality.
-
-54
-00:02:54,640 --> 00:02:57,640
-Really, we are very proud of it in the health field.
-
 55
-00:02:58,040 --> 00:03:02,040
-There is still the use of the resources given by the SL.
+00:02:33,400 --> 00:02:36,400
+And what about the impact of
+Waitrose's achievements
 
 56
-00:03:02,400 --> 00:03:04,640
-There are still toilets that are renovated
+00:02:36,400 --> 00:02:38,440
+in terms of health and
+children's hygiene?
 
 57
-00:03:04,640 --> 00:03:07,520
-and which are still cleaned from time to time by the pupils.
+00:02:38,440 --> 00:02:40,200
+Yes, I wanted to
+get back to that
 
 58
-00:03:08,080 --> 00:03:11,480
-So also practical at home because when the student
+00:02:40,200 --> 00:02:42,000
+because,
+in terms of health,
 
 59
-00:03:12,240 --> 00:03:15,840
-practiced something at school, once home, once
+00:02:42,000 --> 00:02:44,000
+it's true that they
+have developed
 
 60
-00:03:16,920 --> 00:03:18,960
-at his house.
+00:02:44,000 --> 00:02:46,800
+many things
+concerning the toilets
 
 61
-00:03:19,000 --> 00:03:21,400
-So I think it's a very good achievement.
+00:02:46,800 --> 00:02:48,600
+indeed, previously,
+there were no toilets.
 
 62
-00:03:21,400 --> 00:03:23,360
-So they did very well.
+00:02:48,600 --> 00:02:50,000
+So, this has
+this really resulted in
 
 63
-00:03:23,800 --> 00:03:25,560
-And what do you mean in terms
+00:02:50,000 --> 00:02:52,500
+much better hygiene
 
 64
-00:03:25,560 --> 00:03:29,200
-impact in relation to the realization of the closure of schools?
+00:02:52,500 --> 00:02:54,500
+in the local area.
 
 65
-00:03:29,480 --> 00:03:31,680
-So. It is important to close the schools.
+00:02:54,500 --> 00:02:56,200
+Really, we are very proud
+of this.
 
 66
-00:03:31,960 --> 00:03:32,840
-That's very good.
+00:02:56,200 --> 00:02:57,640
+So, as far as health
+is concerned,
 
 67
-00:03:32,840 --> 00:03:35,520
-So practically, there are schools that are not closed.
+00:02:57,640 --> 00:03:00,600
+there's also the use
+of certain (resources?)
 
 68
-00:03:35,960 --> 00:03:38,760
-So, first, in the area of ​​security
+00:03:00,600 --> 00:03:02,200
+provided by the SCL.
 
 69
-00:03:40,840 --> 00:03:41,920
-homeless.
+00:03:02,200 --> 00:03:04,500
+There are the toilets
+which have been renovated
 
 70
-00:03:41,920 --> 00:03:46,200
-In the beginning, you have to say the realization of the wall has lost allowed.
+00:03:04,500 --> 00:03:07,600
+and which are still cleaned
+from time to time by the students.
 
 71
-00:03:46,440 --> 00:03:46,920
-To slow down.
+00:03:07,600 --> 00:03:10,800
+So, this encourages
+good practice at home
 
 72
-00:03:46,920 --> 00:03:48,960
-At the beginning, there was no enclosing wall.
+00:03:10,800 --> 00:03:14,000
+because when a student
+has practised something at school,
 
 73
-00:03:49,600 --> 00:03:52,040
-It means that the animals were
+00:03:14,000 --> 00:03:16,000
+once they return to their house,
+
 
 74
-00:03:52,520 --> 00:03:54,960
-practically at school level, in the classroom
+00:03:16,000 --> 00:03:18,800
+they will implement it
+at home too.
 
 75
-00:03:55,880 --> 00:04:01,040
-and at the level of the saddle yard, in the middle of the pastures for the animals.
+00:03:18,800 --> 00:03:21,400
+So, I think it's
+a very good achievement.
 
 76
-00:04:01,640 --> 00:04:04,960
-But once the fences and the fence is installed, we see very
+00:03:21,400 --> 00:03:23,360
+So, they did very well.
 
 77
-00:04:04,960 --> 00:04:05,800
-although really
+00:03:23,800 --> 00:03:25,200
+And what can you say
 
 78
-00:04:07,240 --> 00:04:10,000
-the animals can no longer have access to the school.
+00:03:25,200 --> 00:03:27,700
+about the impact
+that has been made
 
 79
-00:04:10,560 --> 00:04:15,200
-Then, the fact of still teaching in the classes at school is not closed.
+00:03:27,700 --> 00:03:29,500
+by fencing-off
+the school?
 
 80
-00:04:15,840 --> 00:04:18,400
-This is yet another risk for the teacher.
+00:03:29,500 --> 00:03:30,200
+Exactly.
 
 81
-00:04:18,720 --> 00:04:21,720
-Another teacher still in his class, there are the intruders
+00:03:30,200 --> 00:03:32,000
+Why is it important
+to fence off a school?
 
 82
-00:04:23,160 --> 00:04:26,480
-of people who will come into your class and give you some .
+00:03:32,000 --> 00:03:32,840
+Very well.
 
 83
-00:04:26,880 --> 00:04:29,200
-I don't use it maybe,
+00:03:32,840 --> 00:03:35,900
+So, in effect, there are schools
+that are not fenced-off.
 
 84
-00:04:29,200 --> 00:04:32,640
-but once the fence is there, we close the doors.
+00:03:35,900 --> 00:03:38,760
+So firstly, as far as
+security is concerned...
 
 85
-00:04:33,000 --> 00:04:35,040
-Nobody comes in, nobody leaves.
+00:03:40,840 --> 00:03:41,920
+That's it
 
 86
-00:04:35,040 --> 00:04:37,440
-It is a danger that has been erased.
+00:03:41,920 --> 00:03:46,200
+You need to start off by saying that
+the wall has allowed...
 
 87
-00:04:37,440 --> 00:04:40,120
-In the field of security, we are really
+00:03:46,440 --> 00:03:46,920
+OK
 
 88
-00:04:40,120 --> 00:04:42,040
-very safe.
+00:03:46,920 --> 00:03:48,960
+To begin with, there was
+no wall, no fence.
 
 89
-00:04:43,080 --> 00:04:45,480
-And what do you think is the impact
+00:03:49,600 --> 00:03:52,000
+That meant that animals
 
 90
-00:04:45,480 --> 00:04:48,400
-what does schooling represent?
+00:03:52,000 --> 00:03:55,700
+practically roaming around at school,
+even in the classroom
 
 91
-00:04:49,200 --> 00:04:52,360
-for the communities resulting from the schooling of children?
+00:03:55,700 --> 00:03:58,000
+and in the playground.
 
 92
-00:04:52,880 --> 00:04:56,160
-So, at the beginning, we had a misunderstanding
+00:03:58,000 --> 00:04:01,800
+So, it was an area of pasture
+for the animals.
 
 93
-00:04:56,560 --> 00:04:58,480
-from the communities here.
+00:04:01,800 --> 00:04:04,000
+But now that the fence
+has been installed,
 
 94
-00:04:58,480 --> 00:05:01,200
-Today, we clearly see that the schooling of children
+00:04:04,000 --> 00:04:06,500
+you can see that,
+clearly,
 
 95
-00:05:01,200 --> 00:05:03,440
-and especially girls, it's something that
+00:04:06,500 --> 00:04:10,600
+the animals can no longer
+access the school.
 
 96
-00:05:04,400 --> 00:05:06,840
-is taken head on by the people.
+00:04:10,600 --> 00:04:13,300
+Then, the act of teaching
+in school
 
 97
-00:05:07,320 --> 00:05:11,320
-So, we clearly see that despite their actions at the level of the room
+00:04:13,300 --> 00:04:15,800
+while the school
+is not closed-off,
 
 98
-00:05:11,760 --> 00:05:14,760
-because the parents of pupils who bring the pupils here to school
+00:04:15,800 --> 00:04:18,700
+is a risk
+for the teacher.
 
 99
-00:05:15,360 --> 00:05:18,760
-like all parents in any house, there are students who come here
+00:04:18,700 --> 00:04:20,600
+You can be teaching
+in your classroom,
 
 100
-00:05:18,760 --> 00:05:19,600
-at school.
+00:04:20,600 --> 00:04:24,000
+while there are intruders,
+people who can enter
 
 101
-00:05:19,600 --> 00:05:22,760
-So if your starting point is really schooling
+00:04:24,000 --> 00:04:26,800
+your classroom
+and give you some
 
 102
-00:05:22,760 --> 00:05:25,120
-and reached here at 100%, practically.
+00:04:26,800 --> 00:04:29,200
+I don't know...
+That can happen.
 
 103
-00:05:25,840 --> 00:05:29,080
-This is the question of knowing
+00:04:29,200 --> 00:04:32,640
+But once the fence is there,
+we close the doors.
 
 104
-00:05:29,880 --> 00:05:30,880
-it is well done.
+00:04:33,000 --> 00:04:34,600
+Nobody comes in,
+nobody leaves.
 
 105
+00:04:34,600 --> 00:04:37,400
+It is a danger that
+has been averted.
+
+106
+00:04:37,400 --> 00:04:40,120
+So, as far as security is concerned,
+we are really
+
+107
+00:04:40,120 --> 00:04:42,100
+very safe.
+
+108
+00:04:43,080 --> 00:04:45,600
+And what do you think
+is the impact...
+
+109
+00:04:45,600 --> 00:04:48,600
+What does education represent
+
+110
+00:04:48,600 --> 00:04:52,400
+for the communities here?
+Children's education?
+
+111
+00:04:52,400 --> 00:04:56,500
+Well, at the beginning,
+you could say there was
+
+112
+00:04:56,500 --> 00:04:58,480
+a lack of understanding on the part of
+the communities here.
+
+113
+00:04:58,480 --> 00:05:01,200
+But today, we clearly see that
+children's education
+
+114
+00:05:01,200 --> 00:05:03,400
+- and especially girls' education -
+is something that
+
+115
+00:05:03,400 --> 00:05:07,300
+has been fully embraced
+by people.
+
+116
+00:05:07,300 --> 00:05:11,700
+So, we clearly see that despite
+their actions in the SCL
+
+117
+00:05:11,700 --> 00:05:15,300
+parents bring students
+to school here.
+
+118
+00:05:15,300 --> 00:05:17,000
+So, all parents
+from all households,
+
+119
+00:05:17,000 --> 00:05:19,500
+bring students
+to school here.
+
+120
+00:05:19,500 --> 00:05:22,800
+So, I really think
+the level of school attendance
+
+121
+00:05:22,800 --> 00:05:25,900
+here is practically
+at 100%.
+
+122
+00:05:25,900 --> 00:05:29,080
+OK, is that alright?
+
+123
+00:05:29,880 --> 00:05:30,880
+Is that OK?
+
+124
 00:05:30,880 --> 00:05:31,920
-And I think it's because.
+It's perfect,
+it's perfect.
